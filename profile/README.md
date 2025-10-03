@@ -1,7 +1,7 @@
 <div id="header" align="center">
        <img
        width="150px"
-       src="./assets/App logo 256x256 circle.png"
+       src="../assets/App logo 256x256 circle.png"
        alt="Logo"
        />
 </div>
@@ -39,3 +39,37 @@ Synapse System – это комплексная ERP-система, разра�
 	- формирование отчетов, необходимых для прохождения аккредитации JCI
 	- анализ ключевых показателей эффективности (KPI) для мониторинга и улучшения качества медицинской помощи
 - и многое др. 
+
+---
+
+Synapse System is a comprehensive ERP system designed to automate processes and ensure the efficient operation of medical institutions.
+
+The system is specifically designed to meet the strict quality and safety standards established by Joint Commission International (JCI), enabling medical organizations to not only optimize their operations but also meet international accreditation criteria. It integrates various aspects of clinics, hospitals, and other medical organizations into a single platform, streamlining resource management, improving patient care, and increasing financial transparency.
+
+Key features of the Synapse System:
+- Human Resources Management
+	- Time and Attendance Tracking
+	- Talent Pool Management and Performance Assessment
+- Patient Management
+	- Electronic Medical Record (EMR) compliant with JCI privacy and accessibility requirements
+	- Appointment scheduling and scheduling management, taking into account staff and equipment availability
+	- Insurance Policy Management and Billing
+	- Patient Portal for secure access to information and interaction with the clinic
+- Risk and Patient Safety Management
+	- Critical Event and Risk Notification System
+	- Recording and Analysis of Medical Errors and Adverse Events
+	- Information Access Management in Accordance with Privacy Principles
+- Medical Services Management
+	- Catalog of Medical Services Compliant with International Classifications
+	- Procedure Assignment and Performance Monitored for Compliance with JCI Clinical Protocols
+	- Consumables and Medication Accounting with Expiration Dates and Storage Conditions
+- Financial Management
+	- Accounting in Accordance with International Standards
+	- Financial Performance Analysis for Operational Optimization
+- Inventory Management (Warehouse, Storage Facilities) (departments)
+	- medication and consumable inventory management with expiration date and batch tracking
+	- warehouse management and automated order generation to maintain optimal inventory levels
+- analytics and reporting
+	- generating reports required for JCI accreditation
+	- key performance indicator (KPI) analysis for monitoring and improving the quality of medical care
+- and much more.
